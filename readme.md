@@ -1,6 +1,6 @@
 # Smooth Scroll
 
-System-wide smooth scrolling for Windows with customizable settings and dark theme.
+Full free System-wide smooth scrolling for Windows with customizable settings and dark theme.
 
 ## Features
 
